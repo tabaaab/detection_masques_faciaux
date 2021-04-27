@@ -1,6 +1,8 @@
 
 ![image](https://g.top4top.io/p_19435g1c11.jpg)
 
+Realisé par : TABAA Abdelkader / M1 info ISIMA
+
 COVID-19 : Face Mask Detector, développé un modèle de détection avec une précision de 99% en formation et en test. Détecter automatiquement si une personne porte un masque ou non dans les flux vidéo en temps réel
 
 Table des matières
@@ -40,8 +42,8 @@ Installation / Technique utilisée
 Dataset : Real World Masked Face Dataset (RMFD)
 AI/DL Techniques/Libaries : OpenCV, Keras/TensorFlow, MobileNetV2
 
-Features
----------
+Caractéristiques
+-----------------
 
 
 1-Le jeu de données  est composé de 1 376 images appartenant à deux classes :
